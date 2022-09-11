@@ -1,0 +1,16 @@
+{
+    "managedList": [
+        {
+            "packageName": "Microsoft.Bcl.AsyncInterfaces",
+            "fileNames": [
+                "Microsoft.Bcl.AsyncInterfaces"
+            ]
+        },
+        {
+            "packageName": "Microsoft.Extensions.DependencyInjection.Abstractions",
+            "fileNames": [
+                "Microsoft.Extensions.DependencyInjection.Abstractions"
+            ]
+        }
+    ]
+}

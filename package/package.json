@@ -1,0 +1,14 @@
+{
+    "name": "jp.peposso.vcontainer-to-msdi-proxy",
+    "displayName": "VContainerToMsDiProxy",
+    "author": { "name": "peposso", "url": "https://github.com/peposso" },
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "descriptionUrl": "",
+    "description": "VContainer.IContainerBuilder to Microsoft.Extensions.DependencyInjection.IServiceCollection proxy",
+    "keywords": [],
+    "license": "",
+    "category": "Scripting",
+    "dependencies": {},
+    "samples": []
+}

@@ -1,0 +1,12 @@
+{
+    "searchCacheLimit": 500,
+    "catalogCacheLimit": 300,
+    "iconCacheLimit": 500,
+    "method": 0,
+    "onlyStable": true,
+    "installMethod": 1,
+    "autoPackagePlacementCheck": true,
+    "retryLimit": 1,
+    "timeout": 100,
+    "isNetworkSavemode": false
+}

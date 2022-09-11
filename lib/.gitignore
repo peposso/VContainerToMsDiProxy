@@ -1,0 +1,9 @@
+/UnityProject/*.sln
+/UnityProject/*.csproj
+/UnityProject/Library
+/UnityProject/Logs
+/UnityProject/UserSettings
+
+/VContainer.dll
+/UnityEngine.dll
+/UnityEngine.CoreModule.dll
