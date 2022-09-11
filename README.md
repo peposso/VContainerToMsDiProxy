@@ -1,0 +1,2 @@
+# VContainerToMsDiProxy
+VContainer.IContainerBuilder to Microsoft.Extensions.DependencyInjection.IServiceCollection proxy
